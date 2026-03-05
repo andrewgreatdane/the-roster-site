@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy — The Roster</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --cream: #FAF7F2;
+            --blush: #F2D4CB;
+            --rose: #C4514A;
+            --charcoal: #1C1C1C;
+            --mid: #6B5E58;
+            --light: #A89A95;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { background: var(--cream); color: var(--charcoal); font-family: 'DM Sans', sans-serif; }
+        nav {
+            padding: 20px 40px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid var(--blush);
+        }
+        .nav-logo {
+            font-family: 'Playfair Display', serif;
+            font-size: 22px;
+            font-weight: 900;
+            color: var(--rose);
+            text-decoration: none;
+        }
+        .back-link { color: var(--mid); text-decoration: none; font-size: 14px; }
+        .back-link:hover { color: var(--rose); }
+        .container { max-width: 720px; margin: 0 auto; padding: 60px 24px 100px; }
+        h1 { font-family: 'Playfair Display', serif; font-size: 48px; font-weight: 900; margin-bottom: 8px; }
+        .updated { color: var(--light); font-size: 14px; margin-bottom: 50px; }
+        h2 { font-family: 'Playfair Display', serif; font-size: 22px; font-weight: 700; margin: 40px 0 14px; }
+        p { color: var(--mid); font-size: 16px; line-height: 1.75; margin-bottom: 16px; font-weight: 300; }
+        .highlight { background: white; border-left: 3px solid var(--rose); padding: 20px 24px; border-radius: 0 12px 12px 0; margin: 24px 0; }
+        .highlight p { margin: 0; color: var(--charcoal); font-weight: 500; }
+        a { color: var(--rose); text-decoration: none; }
+        footer { padding: 32px 40px; border-top: 1px solid var(--blush); text-align: center; }
+        .footer-copy { font-size: 13px; color: var(--light); }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="index.html" class="nav-logo">♥ The Roster</a>
+        <a href="index.html" class="back-link">← Back to home</a>
+    </nav>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p class="updated">Last updated: February 28, 2026</p>
+
+        <div class="highlight">
+            <p>The short version: your data stays on your device. We don't collect it, store it, or sell it. Ever.</p>
+        </div>
+
+        <h2>What We Collect</h2>
+        <p>The Roster does not collect any personal information. All data you enter — roster entries, ratings, notes, and any other content — is stored locally on your device and never transmitted to any server.</p>
+
+        <h2>On-Device Storage</h2>
+        <p>All information you add to The Roster is stored exclusively on your iPhone. If you delete the app, all data is permanently removed. We have no access to your data and cannot recover it if deleted.</p>
+
+        <h2>Analytics & Tracking</h2>
+        <p>We do not use any analytics tools, crash reporting services, or tracking software. We do not know how you use the app, how many entries you have, or anything else about your usage.</p>
+
+        <h2>Sharing Features</h2>
+        <p>The Roster includes optional sharing features that allow you to share entries or your roster with others. This sharing is initiated entirely by you, uses your device's native share sheet, and is not processed through any Roster servers.</p>
+
+        <h2>AI Roster Report</h2>
+        <p>The optional Roster Report feature sends your roster data (without identifying information) to Anthropic's API to generate insights. This is an opt-in, paid feature. No data is stored on our end. Please review Anthropic's privacy policy at anthropic.com for details on how they handle API data.</p>
+
+        <h2>Children's Privacy</h2>
+        <p>The Roster is intended for users 17 and older. We do not knowingly collect information from anyone under 17.</p>
+
+        <h2>Changes to This Policy</h2>
+        <p>We may update this policy from time to time. Any changes will be posted here with an updated date.</p>
+
+        <h2>Contact</h2>
+        <p>Questions? Reach us at <a href="/cdn-cgi/l/email-protection#bfd7dad3d3d0ffcad1d7d6d1d8dadbc9dad1cbcacddacc91dcd0d2"><span class="__cf_email__" data-cfemail="5e363b3232311e2b30363730393b3a283b302a2b2c3b2d703d3133">[email&#160;protected]</span></a><
